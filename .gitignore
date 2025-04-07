@@ -1,0 +1,6 @@
+# Ignore virtual environment internals
+Lib/
+mqtt_client/
+Scripts/
+share/
+pyvenv.cfg
